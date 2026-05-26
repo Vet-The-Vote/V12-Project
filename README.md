@@ -349,6 +349,5 @@ Full documentation, technical deep-dives, and the Witness Node purchase page are
 
 *© 2026 Mission Command Center Enterprises, a Wyoming C Corporation.*
 *Vet The Vote (V12) is a wholly owned subsidiary.*
-*507 Lampman Court, Cheyenne, WY 82007*
 
 </div>
